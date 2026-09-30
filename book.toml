@@ -1,0 +1,8 @@
+[book]
+title = "AI Engineer Notes"
+authors = ["MD Ariful Islam Protik"]
+description = "Personal notes learning AI engineering, node by node from roadmap.sh/ai-engineer."
+src = "src"
+
+[output.html]
+git-repository-url = "https://github.com/ArifulProtik/ArifulProtik.github.io"
