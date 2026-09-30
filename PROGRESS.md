@@ -4,9 +4,9 @@ One `- [ ]` per Node/Leaf in visual order. Flip to `- [x]` on completion
 (verify `mdbook build`, check the note's Done checklist, commit per chapter).
 
 - [x] preface — `src/preface.md`
-- [ ] ch00-prereqs-frontend
-- [ ] ch00-prereqs-backend
-- [ ] ch00-prereqs-fullstack
+- [x] ch00-prereqs-frontend
+- [x] ch00-prereqs-backend
+- [x] ch00-prereqs-fullstack
 - [ ] ch01-intro-what-is-an-ai-engineer
 - [ ] ch01-intro-roles-and-responsibilities
 - [ ] ch01-intro-impact-on-product-development
