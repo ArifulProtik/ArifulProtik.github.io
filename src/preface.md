@@ -14,12 +14,6 @@ Writing is the second half of the method. I have forgotten most of what I only r
 
 Publishing the notes in the open adds pressure I find useful. A private notebook tolerates vague sentences. A public chapter does not, or at least it should not. If something I wrote is wrong, a reader can point at the exact line. That keeps me honest in a way no study plan taped to a wall ever did.
 
-## How each chapter works
-
-Every note follows the same shape. It opens with learning goals so you know what the chapter promises. Then come the detailed notes, an explanation of how the thing works, and a Python example you can run. After that I list the pitfalls I ran into or found written up elsewhere, then the free resources that taught me the most, and finally a short checklist so you can confirm the knowledge stuck.
-
-The examples are in Python because that is where the AI engineering ecosystem lives: the OpenAI SDK, LangChain, LlamaIndex, Chroma, sentence-transformers. I pin library versions in a comment at the top of each example so the code keeps working as libraries move on. The one exception is Transformers.js, which gets JavaScript, since running models in the browser is the entire point of that library.
-
 ## Whose words are these
 
 None of this knowledge is mine. It comes from documentation, articles, papers, and the people who built the tools. My work is collecting it, testing it, and organizing it so I can learn. Every chapter links its sources in the free resources section, and credit belongs there.
